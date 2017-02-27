@@ -1,1 +1,2 @@
-# jsAlgorithms
+# Javascript Algorithms
+Merge Sort implemented
